@@ -1,0 +1,277 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 60255,
+      "max": [
+        2.2636592388153076,
+        6.7448062896728516,
+        -12.133094787597656
+      ],
+      "min": [
+        -5.0332174301147461,
+        -7.7717194557189941,
+        -18.961366653442383
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 723060,
+      "componentType": 5126,
+      "count": 60255,
+      "max": [
+        0.99999362230300903,
+        0.99992382526397705,
+        0.99997508525848389
+      ],
+      "min": [
+        -0.99977481365203857,
+        -0.99995219707489014,
+        -0.99985921382904053
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 60255,
+      "max": [
+        0.99996912479400635,
+        0.99980008602142334,
+        0.9999660849571228,
+        1
+      ],
+      "min": [
+        -0.99996477365493774,
+        -0.9999995231628418,
+        -0.99996280670166016,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 964080,
+      "componentType": 5126,
+      "count": 60255,
+      "max": [
+        0.84705883264541626,
+        0.83921569585800171,
+        0.89019608497619629,
+        1
+      ],
+      "min": [
+        0.0078431377187371254,
+        0.011764706112444401,
+        0.011764706112444401,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 60255,
+      "max": [
+        0.99996960163116455,
+        0.98935294151306152
+      ],
+      "min": [
+        8.3081424236297607e-05,
+        7.8281387686729431e-05
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 299997,
+      "max": [
+        60254
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "brycelynch (https://sketchfab.com/cyoung1971)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/clarkes-boot-980e5fe725be4e07b0e5d366fbf047ae",
+      "title": "Clarke's Boot"
+    },
+    "generator": "Sketchfab-7.32.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1199988,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 482040,
+      "byteOffset": 1199988,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1446120,
+      "byteOffset": 1682028,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1928160,
+      "byteOffset": 3128148,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 5056308,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "material0",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.67454268292682928,
+          0.67454268292682928,
+          0.67454268292682928,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.79706554878048785
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 3,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        -0.26875755190849304,
+        0.94209593534469604,
+        0.2005607932806015,
+        0,
+        0.96311938762664795,
+        0.26566490530967712,
+        0.042699147015810013,
+        0,
+        -0.013055271469056606,
+        0.20463970303535461,
+        -0.97875028848648071,
+        0,
+        -2.1310861110687256,
+        -0.82762312889099121,
+        31.334819793701172,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "effa9752382a4361b65a35234b7c482a.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Model"
+    },
+    {
+      "mesh": 0,
+      "name": "Model_material0_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+

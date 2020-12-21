@@ -1,0 +1,464 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 839,
+      "max": [
+        0.22263534367084503,
+        0.13305376470088959,
+        0.2978280782699585
+      ],
+      "min": [
+        -0.050495602190494537,
+        -0.19831740856170654,
+        -0.00075782090425491333
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10068,
+      "componentType": 5126,
+      "count": 839,
+      "max": [
+        0.99818378686904907,
+        0.9942401647567749,
+        0.99952602386474609
+      ],
+      "min": [
+        -0.99929201602935791,
+        -0.99816632270812988,
+        -0.99999809265136719
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 839,
+      "max": [
+        0.99635511636734009,
+        0.99955099821090698,
+        0.99790263175964355,
+        1
+      ],
+      "min": [
+        -0.9999992847442627,
+        -0.99957972764968872,
+        -0.99771487712860107,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 13424,
+      "componentType": 5126,
+      "count": 839,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        0.10196078568696976,
+        0.10196078568696976,
+        0.10196078568696976,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 839,
+      "max": [
+        0.91635864973068237,
+        0.99739772081375122
+      ],
+      "min": [
+        0.0027115459088236094,
+        0.0025045482907444239
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 4668,
+      "max": [
+        838
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 20136,
+      "componentType": 5126,
+      "count": 839,
+      "max": [
+        0.13391342759132385,
+        0.13305376470088959,
+        0.37428805232048035
+      ],
+      "min": [
+        -0.076913468539714813,
+        -0.19831740856170654,
+        -0.00075782090425491333
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 30204,
+      "componentType": 5126,
+      "count": 839,
+      "max": [
+        0.99953234195709229,
+        0.99466222524642944,
+        0.99952602386474609
+      ],
+      "min": [
+        -0.99733841419219971,
+        -0.99869018793106079,
+        -0.99999809265136719
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 26848,
+      "componentType": 5126,
+      "count": 839,
+      "max": [
+        0.9999992847442627,
+        0.99743598699569702,
+        0.99790263175964355,
+        1
+      ],
+      "min": [
+        -0.99891960620880127,
+        -0.99908441305160522,
+        -0.98832893371582031,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 40272,
+      "componentType": 5126,
+      "count": 839,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        0.10196078568696976,
+        0.10196078568696976,
+        0.10196078568696976,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6712,
+      "componentType": 5126,
+      "count": 839,
+      "max": [
+        0.91635864973068237,
+        0.99739772081375122
+      ],
+      "min": [
+        0.0027115459088236094,
+        0.0025045482907444239
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 18672,
+      "componentType": 5125,
+      "count": 4668,
+      "max": [
+        838
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "unwave (https://sketchfab.com/unwave)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/kirza-boots-fac9f2745c0f47f5b4e63e2aaf8228f8",
+      "title": "Kirza Boots"
+    },
+    "generator": "Sketchfab-5.36.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 37344,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13424,
+      "byteOffset": 37344,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 40272,
+      "byteOffset": 50768,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 53696,
+      "byteOffset": 91040,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 144736,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/kirza_normal.png"
+    },
+    {
+      "uri": "textures/kirza_baseColor.png"
+    },
+    {
+      "uri": "textures/kirza_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": false,
+      "name": "kirza",
+      "normalTexture": {
+        "index": 0,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "metallicRoughnessTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cube.001_kirza_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 3,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cube.004_kirza_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 9,
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "431a849d5afa4dcab10ff448ebd5d42b.fbx"
+    },
+    {
+      "children": [
+        4,
+        6
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        97.720356251800041,
+        -1.3877788866605641e-15,
+        -21.230485154613127,
+        0,
+        -21.230485154613103,
+        -4.3711393398009171e-06,
+        -97.720356251799942,
+        0,
+        -9.2801394485642064e-07,
+        99.999999999999901,
+        -4.2714922710018755e-06,
+        0,
+        6.2315812110900879,
+        0,
+        -1.6529467105865479,
+        1
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "name": "Cube.001_kirza_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        96.871839351333421,
+        -5.5511151231257827e-15,
+        24.816259603120074,
+        0,
+        24.816259603120049,
+        -4.3711389619005558e-06,
+        -96.871839351333335,
+        0,
+        1.0847531969893076e-06,
+        99.999999999999901,
+        -4.2344027173513155e-06,
+        0,
+        -7.2163515090942383,
+        0,
+        -2.0207967758178711,
+        1
+      ],
+      "name": "Cube.004"
+    },
+    {
+      "mesh": 1,
+      "name": "Cube.004_kirza_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
