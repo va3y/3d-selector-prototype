@@ -91,28 +91,28 @@
       <label for="leather1" class="small-label">Черная текстура
       <br>
       <button id="leather1" @click="changeTexture('./leather1.jpg')">
-      <img src="../../public/leather1.jpg" width="100">
+      <img src="../../public/leather1_icon.jpg" width="100">
       </button>
       </label>
 
       <label for="leather2" class="small-label">Коричневая текстура
       <br>
       <button id="leather2" @click="changeTexture('./leather2.jpg')">
-      <img src="../../public/leather2.jpg" width="100">
+      <img src="../../public/leather2_icon.jpg" width="100">
       </button>
       </label>
 
       <label for="leather3" class="small-label">Красная текстура
       <br>
       <button id="leather3" @click="changeTexture('./leather3.jpg')">
-      <img src="../../public/leather3.jpg" width="100">
+      <img src="../../public/leather3_icon.jpg" width="100">
       </button>
       </label>
 
       <label for="leather4" class="small-label">Синяя текстура
       <br>
       <button id="leather4" @click="changeTexture('./leather4.jpg')">
-      <img src="../../public/leather4.jpg" width="100">
+      <img src="../../public/leather4_icon.jpg" width="100">
       </button>
       </label>
       
